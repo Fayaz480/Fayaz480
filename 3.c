@@ -10,6 +10,6 @@ int main(){
   printf("Enter the three number: ");
   scanf("%d%d%d",&a,&b,&c);
   printf("Largest number is %d\n",largest(a,b,c));
-  printf("jairam ECE");
+  printf("FAYAZ ECE");
   return 0;
 }
